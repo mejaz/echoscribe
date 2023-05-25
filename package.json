@@ -10,10 +10,15 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.14",
+    "form-data": "^4.0.0",
+    "formidable-serverless": "^1.1.1",
     "next": "13.4.3",
+    "node-fetch": "^3.3.1",
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "readable-stream": "^4.4.0",
     "tailwindcss": "3.3.2"
   }
 }
