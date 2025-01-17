@@ -29,3 +29,5 @@ A project to generate audio transcriptions. Simply upload an audio file and get 
 ## Contact
 
 mohdejazsiddiqui@gmail.com
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y618ZETK)
